@@ -1,2 +1,2 @@
-# Artificial-Intelligence
+# first reinforcement learning
 MyAI
